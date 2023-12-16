@@ -1,0 +1,8 @@
+name: homes
+main: me.ardryck.paladins.homes.HomesPlugin
+version: 0.1
+authors: [Ardryck]
+commands:
+  home:
+    aliases: [homes]
+  sethome:
